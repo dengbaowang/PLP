@@ -1,4 +1,4 @@
-# Mixup-Inference-in-Training
+# Progressively Layer-Peeled (PLP) Training for Calibration
 
 This is the implementation of our ICML'24 paper [Calibration Bottleneck: Over-compressed Representations are Less Calibratable](https://dengbaowang.github.io/). In the paper, we observe a U-shaped pattern in the calibratability of intermediate features, spanning from the lower to the upper layers.
 
